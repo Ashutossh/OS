@@ -1,0 +1,7 @@
+This OS do the basic thing like sorting numbers,changing background color etc.
+
+Steps to run:
+
+(1)Install quemu emulator
+(2)To run this open the terminal in linux 
+(3)type "make" in the terminal after reaching that folder directory 
